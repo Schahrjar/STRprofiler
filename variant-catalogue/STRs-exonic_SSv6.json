@@ -1,0 +1,4412 @@
+[
+  {
+    "LocusId": "DVL1",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr1:1341593-1341597",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PLOD1",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr1:11944422-11944454",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "KAZN",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr1:15112329-15112373",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SELENON",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr1:25812556-25812606",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PUM1_1",
+    "LocusStructure": "(AAC)*",
+    "ReferenceRegion": "chr1:30941049-30941070",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PUM1_2",
+    "LocusStructure": "(AG)*",
+    "ReferenceRegion": "chr1:31005791-31005823",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "COL16A1",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr1:31653746-31653774",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ADGRB2",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr1:31728803-31728847",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "NCDN",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr1:35566629-35566679",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CYP4A11",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr1:46936815-46936843",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "DMRTA2",
+    "LocusStructure": "(CGG)*",
+    "ReferenceRegion": "chr1:50419101-50419128",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "FAM151A",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr1:54614939-54614953",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PCSK9",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr1:55058666-55058718",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SGIP1",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr1:66643727-66643741",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CTH",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr1:70438840-70438868",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "GBP4",
+    "LocusStructure": "(TTCA)*",
+    "ReferenceRegion": "chr1:89193451-89193471",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "GFI1",
+    "LocusStructure": "(AG)*",
+    "ReferenceRegion": "chr1:92478757-92478793",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ABCD3",
+    "LocusStructure": "(CCG)*",
+    "ReferenceRegion": "chr1:94418422-94418443",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PLPPR5",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr1:98953355-98953395",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "DPH5",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr1:101021817-101021859",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "COL11A1_1",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr1:102889383-102889409",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "COL11A1_2",
+    "LocusStructure": "(AAAT)*",
+    "ReferenceRegion": "chr1:103006178-103006206",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "EPS8L3",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr1:109759144-109759182",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "OVGP1",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr1:111427809-111427861",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TMIGD3",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr1:111489032-111489046",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PPM1J",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr1:112713064-112713096",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SLC16A1",
+    "LocusStructure": "(AATA)*",
+    "ReferenceRegion": "chr1:112918054-112918102",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PHTF1",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr1:113698152-113698188",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SPAG17",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr1:118081058-118081090",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "HMGCS2",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr1:119753410-119753446",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ITGA10",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr1:145903002-145903066",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ADAMTSL4",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr1:150555614-150555618",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "INTS3",
+    "LocusStructure": "(GGT)*",
+    "ReferenceRegion": "chr1:153772020-153772050",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "DENND4B",
+    "LocusStructure": "(CTG)*",
+    "ReferenceRegion": "chr1:153934802-153934847",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "RAB13",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr1:153982302-153982334",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "KCNN3",
+    "LocusStructure": "(GCT)*",
+    "ReferenceRegion": "chr1:154869723-154869765",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "DAP3",
+    "LocusStructure": "(TA)*",
+    "ReferenceRegion": "chr1:155721400-155721418",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "NTRK1",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr1:156875700-156875736",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ARHGEF11",
+    "LocusStructure": "(CATT)*",
+    "ReferenceRegion": "chr1:156944448-156944480",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "FCRL2",
+    "LocusStructure": "(AAAT)*",
+    "ReferenceRegion": "chr1:157748441-157748477",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SPTA1",
+    "LocusStructure": "(AG)*",
+    "ReferenceRegion": "chr1:158686557-158686575",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ARHGAP30",
+    "LocusStructure": "(TC)*",
+    "ReferenceRegion": "chr1:161053462-161053506",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "NDUFS2",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr1:161214269-161214299",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "UAP1",
+    "LocusStructure": "(TC)*",
+    "ReferenceRegion": "chr1:162590570-162590590",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "POU2F1",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr1:167413162-167413188",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TBX19",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr1:168293284-168293326",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SELP",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr1:169603307-169603349",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PRRX1",
+    "LocusStructure": "(CT)*",
+    "ReferenceRegion": "chr1:170664088-170664106",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MROH9",
+    "LocusStructure": "(AAAT)*",
+    "ReferenceRegion": "chr1:170959375-170959395",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "DNM3",
+    "LocusStructure": "(CTCTC)*",
+    "ReferenceRegion": "chr1:172253489-172253544",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "RC3H1",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr1:173992669-173992699",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "KIAA0040",
+    "LocusStructure": "(CTT)*",
+    "ReferenceRegion": "chr1:175160788-175160818",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "RASAL2",
+    "LocusStructure": "(AAAG)*",
+    "ReferenceRegion": "chr1:178465828-178465840",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SOAT1",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr1:179348760-179348815",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "KIF14",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr1:200575522-200575544",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ARL8A",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr1:202138294-202138326",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "REN",
+    "LocusStructure": "(CAGA)*",
+    "ReferenceRegion": "chr1:204156336-204156364",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PFKFB2_1",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr1:207063888-207063916",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PFKFB2_2",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr1:207068095-207068117",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PLXNA2",
+    "LocusStructure": "(CT)*",
+    "ReferenceRegion": "chr1:208103054-208103062",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MIR205HG",
+    "LocusStructure": "(AGC)*",
+    "ReferenceRegion": "chr1:209432291-209432330",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "NENF",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr1:212444518-212444568",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "KCNK2",
+    "LocusStructure": "(TC)*",
+    "ReferenceRegion": "chr1:215171920-215171942",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TGFB2",
+    "LocusStructure": "(TTG)*",
+    "ReferenceRegion": "chr1:218405343-218405373",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "DEGS1",
+    "LocusStructure": "(GCC)*",
+    "ReferenceRegion": "chr1:224183256-224183274",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "LBR",
+    "LocusStructure": "(AT)*",
+    "ReferenceRegion": "chr1:225415377-225415391",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "EPHX1",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr1:225839366-225839402",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "OBSCN",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr1:228339041-228339075",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CAPN9",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr1:230780081-230780121",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TBCE",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr1:235380161-235380214",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "FH",
+    "LocusStructure": "(GA)*",
+    "ReferenceRegion": "chr1:241500602-241500640",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "AHCTF1",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr1:246867901-246867921",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "RNF144A",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr2:7030257-7030305",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "NBAS",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr2:15351870-15351904",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TRIM54",
+    "LocusStructure": "(CTAT)*",
+    "ReferenceRegion": "chr2:27299675-27299715",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "FOSL2",
+    "LocusStructure": "(GA)*",
+    "ReferenceRegion": "chr2:28392945-28392965",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "EHD3",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr2:31266761-31266793",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SPAST",
+    "LocusStructure": "(TA)*",
+    "ReferenceRegion": "chr2:32137010-32137014",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "BIRC6",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr2:32532134-32532170",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SLC8A1",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr2:40428423-40428453",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PRKCE",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr2:46151280-46151324",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "GTF2A1L",
+    "LocusStructure": "(AATA)*",
+    "ReferenceRegion": "chr2:48620779-48620819",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "EML6",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr2:54843964-54844004",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "EFEMP1",
+    "LocusStructure": "(ACA)*",
+    "ReferenceRegion": "chr2:55870643-55870673",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MEIS1",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr2:66440068-66440092",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ALMS1",
+    "LocusStructure": "(GGA)*",
+    "ReferenceRegion": "chr2:73385903-73385951",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "HK2",
+    "LocusStructure": "(AGG)*",
+    "ReferenceRegion": "chr2:74873746-74873767",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "GCFC2",
+    "LocusStructure": "(AT)*",
+    "ReferenceRegion": "chr2:75692146-75692170",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "POLR1A",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr2:86077811-86077857",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "KDM3A",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr2:86474701-86474741",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "KCNIP3_1",
+    "LocusStructure": "(CCCA)*",
+    "ReferenceRegion": "chr2:95383111-95383151",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "KCNIP3_2",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr2:95384169-95384205",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ADRA2B",
+    "LocusStructure": "(TCC)*",
+    "ReferenceRegion": "chr2:96115226-96115253",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ACOXL",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr2:110963565-110963603",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MERTK",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr2:111968107-111968121",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "NT5DC4",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr2:112723361-112723395",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CCDC93",
+    "LocusStructure": "(GCC)*",
+    "ReferenceRegion": "chr2:118014106-118014133",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "WDR33",
+    "LocusStructure": "(TAAA)*",
+    "ReferenceRegion": "chr2:127769005-127769037",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SPOPL",
+    "LocusStructure": "(TC)*",
+    "ReferenceRegion": "chr2:138550827-138550849",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "FMNL2",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr2:152607470-152607506",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TBR1",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr2:161418096-161418130",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "STK39",
+    "LocusStructure": "(CCG)*",
+    "ReferenceRegion": "chr2:168247544-168247562",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "NOSTRIN",
+    "LocusStructure": "(TTTG)*",
+    "ReferenceRegion": "chr2:168824768-168824788",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SP9",
+    "LocusStructure": "(GGC)*",
+    "ReferenceRegion": "chr2:174337446-174337494",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "WIPF1",
+    "LocusStructure": "(AG)*",
+    "ReferenceRegion": "chr2:174567262-174567272",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CHN1",
+    "LocusStructure": "(TA)*",
+    "ReferenceRegion": "chr2:174824614-174824630",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "HOXD13",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr2:176094385-176094417",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "HOXD10",
+    "LocusStructure": "(AAAACC)*",
+    "ReferenceRegion": "chr2:176118858-176118876",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TTN_1",
+    "LocusStructure": "(TA)*",
+    "ReferenceRegion": "chr2:178647040-178647062",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TTN_2",
+    "LocusStructure": "(ACAAA)*",
+    "ReferenceRegion": "chr2:178713381-178713411",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CERKL",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr2:181547906-181547914",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "FAM171B",
+    "LocusStructure": "(CAG)*",
+    "ReferenceRegion": "chr2:186694302-186694320",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "GLS",
+    "LocusStructure": "(GCA)*",
+    "ReferenceRegion": "chr2:190880872-190880920",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MYO1B",
+    "LocusStructure": "(TGT)*",
+    "ReferenceRegion": "chr2:191360751-191360787",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "FLACC1",
+    "LocusStructure": "(AAAAC)*",
+    "ReferenceRegion": "chr2:201350681-201350701",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PARD3B",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr2:205113393-205113423",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "KLF7",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr2:207081061-207081083",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MYL1",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr2:210298339-210298367",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TNS1_1",
+    "LocusStructure": "(GCT)*",
+    "ReferenceRegion": "chr2:217848163-217848190",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TNS1_2",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr2:217893400-217893430",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "USP37",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr2:218463175-218463231",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "AP1S3",
+    "LocusStructure": "(CAT)*",
+    "ReferenceRegion": "chr2:223765159-223765180",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "DOCK10_1",
+    "LocusStructure": "(CCAA)*",
+    "ReferenceRegion": "chr2:224854854-224854898",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "DOCK10_2",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr2:224855064-224855100",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ALPG",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr2:232406987-232407005",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SNORC",
+    "LocusStructure": "(AG)*",
+    "ReferenceRegion": "chr2:232875345-232875359",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MLPH",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr2:237510900-237510924",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ILKAP",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr2:238183977-238183985",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PDCD1",
+    "LocusStructure": "(GCA)*",
+    "ReferenceRegion": "chr2:241850723-241850753",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ITPR1",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr3:4697315-4697353",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "BHLHE40",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr3:4983829-4983855",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "GRM7",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr3:7452558-7452586",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SLC6A6",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr3:14485159-14485177",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "COLQ",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr3:15498469-15498485",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TBC1D5",
+    "LocusStructure": "(AAAC)*",
+    "ReferenceRegion": "chr3:17372039-17372055",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "RARB",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr3:25569981-25570021",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ZCWPW2",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr3:28515715-28515745",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "STT3B",
+    "LocusStructure": "(TCC)*",
+    "ReferenceRegion": "chr3:31532901-31532922",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "OSBPL10",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr3:31980841-31980863",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "DYNC1LI1",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr3:32526653-32526677",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TRIM71",
+    "LocusStructure": "(TC)*",
+    "ReferenceRegion": "chr3:32891852-32891872",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SCN5A",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr3:38585662-38585672",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CSRNP1",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr3:39147046-39147068",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "RPL14",
+    "LocusStructure": "(CTG)*",
+    "ReferenceRegion": "chr3:40462029-40462059",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ZNF620",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr3:40515780-40515820",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CCDC13",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr3:42758062-42758096",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ABHD5",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr3:43715085-43715119",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "LIMD1",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr3:45594778-45594844",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SETD2",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr3:47101597-47101633",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "GPX1",
+    "LocusStructure": "(GCC)*",
+    "ReferenceRegion": "chr3:49358240-49358258",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MANF",
+    "LocusStructure": "(GGA)*",
+    "ReferenceRegion": "chr3:51385310-51385352",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "DCAF1",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr3:51483609-51483645",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "DNAH12",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr3:57301677-57301727",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "FAM3D",
+    "LocusStructure": "(AAATA)*",
+    "ReferenceRegion": "chr3:58645457-58645482",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CADPS",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr3:62491536-62491584",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "THOC7",
+    "LocusStructure": "(GCG)*",
+    "ReferenceRegion": "chr3:63863797-63863824",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ATXN7",
+    "LocusStructure": "(CAG)*",
+    "ReferenceRegion": "chr3:63912685-63912715",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MAGI1",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr3:65621917-65621941",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "LRIG1",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr3:66383948-66383972",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "EOGT",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr3:68976641-68976671",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ROBO1",
+    "LocusStructure": "(AT)*",
+    "ReferenceRegion": "chr3:78659660-78659674",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "EPHA6",
+    "LocusStructure": "(TC)*",
+    "ReferenceRegion": "chr3:97748517-97748537",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MYH15",
+    "LocusStructure": "(AAGG)*",
+    "ReferenceRegion": "chr3:108493022-108493046",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "NECTIN3",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr3:111111899-111111933",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ABHD10",
+    "LocusStructure": "(TTTGT)*",
+    "ReferenceRegion": "chr3:111986428-111986448",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SIDT1",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr3:113566338-113566364",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TIGIT",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr3:114308218-114308236",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "FSTL1",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr3:120412036-120412050",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "POLQ",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr3:121476455-121476485",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "HCLS1",
+    "LocusStructure": "(GGCTCA)*",
+    "ReferenceRegion": "chr3:121632468-121632480",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "KPNA1",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr3:122496319-122496349",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "HEG1",
+    "LocusStructure": "(GAG)*",
+    "ReferenceRegion": "chr3:125013575-125013605",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "OSBPL11",
+    "LocusStructure": "(TA)*",
+    "ReferenceRegion": "chr3:125552141-125552161",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ACAD9_1",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr3:128899523-128899563",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ACAD9_2",
+    "LocusStructure": "(TGGA)*",
+    "ReferenceRegion": "chr3:128901172-128901200",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "COL6A5",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr3:130403708-130403728",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PPP2R3A",
+    "LocusStructure": "(TGTTT)*",
+    "ReferenceRegion": "chr3:136023215-136023245",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "XRN1",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr3:142375974-142376000",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CP",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr3:149179711-149179749",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MED12L",
+    "LocusStructure": "(AT)*",
+    "ReferenceRegion": "chr3:151375970-151375980",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "DHX36",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr3:154292726-154292760",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MME",
+    "LocusStructure": "(TA)*",
+    "ReferenceRegion": "chr3:155116590-155116606",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SMC4",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr3:160425022-160425052",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PPM1L",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr3:160756752-160756790",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SI",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr3:165058859-165058887",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SLC2A2",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr3:171009912-171009950",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "USP13",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr3:179764183-179764215",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "DNAJB11",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr3:186584602-186584622",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "OPA1",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr3:193614631-193614635",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "HTT",
+    "LocusStructure": "(CAG)*",
+    "ReferenceRegion": "chr4:3074876-3074933",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "LINC00955",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr4:3589096-3589116",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PPP2R2C",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr4:6414076-6414122",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TRMT44",
+    "LocusStructure": "(TTTTC)*",
+    "ReferenceRegion": "chr4:8449929-8449949",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CPEB2",
+    "LocusStructure": "(GCC)*",
+    "ReferenceRegion": "chr4:15003254-15003269",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "LCORL",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr4:17883673-17883693",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ARAP2",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr4:36128477-36128503",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "LIMCH1",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr4:41627019-41627053",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "FRYL",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr4:48535586-48535614",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TECRL",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr4:64314590-64314638",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CSN1S1",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr4:69940111-69940149",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "COX18",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr4:73067954-73067988",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MTHFD2L",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr4:74281324-74281350",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PPEF2",
+    "LocusStructure": "(AG)*",
+    "ReferenceRegion": "chr4:75876184-75876188",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SHROOM3",
+    "LocusStructure": "(CT)*",
+    "ReferenceRegion": "chr4:76756396-76756416",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "FRAS1_1",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr4:78058103-78058119",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "FRAS1_2",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr4:78429046-78429062",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PRKG2",
+    "LocusStructure": "(AAGG)*",
+    "ReferenceRegion": "chr4:81092465-81092513",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PTPN13",
+    "LocusStructure": "(TCTA)*",
+    "ReferenceRegion": "chr4:86796963-86796975",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "DSPP",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr4:87611030-87611062",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "BMPR1B",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr4:95114645-95114669",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MTTP",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr4:99591870-99591888",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PPP3CA",
+    "LocusStructure": "(CCG)*",
+    "ReferenceRegion": "chr4:101346879-101346903",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TET2",
+    "LocusStructure": "(ATAG)*",
+    "ReferenceRegion": "chr4:105233833-105233857",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "LARP7",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr4:112657170-112657200",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ANK2_1",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr4:113333298-113333330",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ANK2_2",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr4:113365201-113365231",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "FABP2",
+    "LocusStructure": "(ATA)*",
+    "ReferenceRegion": "chr4:119319647-119319677",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MAML3",
+    "LocusStructure": "(TGC)*",
+    "ReferenceRegion": "chr4:139889909-139889966",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ZNF827",
+    "LocusStructure": "(AG)*",
+    "ReferenceRegion": "chr4:145885610-145885656",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "POU4F2",
+    "LocusStructure": "(GGC)*",
+    "ReferenceRegion": "chr4:146639305-146639338",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SH3D19",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr4:151148254-151148288",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "FHDC1",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr4:152962940-152962982",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TLR2",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr4:153702762-153702806",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "DCHS2_1",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr4:154259500-154259528",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "DCHS2_2",
+    "LocusStructure": "(AAAC)*",
+    "ReferenceRegion": "chr4:154304632-154304664",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "RAPGEF2",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr4:159330265-159330295",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "DDX60L",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr4:168420457-168420505",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TRIML1",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr4:188142207-188142243",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ADAMTS16",
+    "LocusStructure": "(TC)*",
+    "ReferenceRegion": "chr5:5200107-5200127",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SEMA5A",
+    "LocusStructure": "(AT)*",
+    "ReferenceRegion": "chr5:9226996-9227010",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "BASP1",
+    "LocusStructure": "(CT)*",
+    "ReferenceRegion": "chr5:17275944-17275970",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CDH10",
+    "LocusStructure": "(AG)*",
+    "ReferenceRegion": "chr5:24511545-24511591",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "LIFR",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr5:38528849-38528877",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MROH2B_1",
+    "LocusStructure": "(TATC)*",
+    "ReferenceRegion": "chr5:41033781-41033829",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MROH2B_2",
+    "LocusStructure": "(CT)*",
+    "ReferenceRegion": "chr5:41069850-41069866",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ANKRD55",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr5:56232745-56232769",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ZSWIM6",
+    "LocusStructure": "(GGC)*",
+    "ReferenceRegion": "chr5:61332326-61332344",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CENPK",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr5:65561597-65561619",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TRAPPC13",
+    "LocusStructure": "(TC)*",
+    "ReferenceRegion": "chr5:65664484-65664498",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ARHGEF28",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr5:73857564-73857586",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "GFM2",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr5:74732927-74732979",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ARB2A",
+    "LocusStructure": "(ATAG)*",
+    "ReferenceRegion": "chr5:94053072-94053112",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MAN2A1",
+    "LocusStructure": "(TATATG)*",
+    "ReferenceRegion": "chr5:109817172-109817196",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SNX2",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr5:122829775-122829811",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PPIC",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr5:123023807-123023837",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ALDH7A1",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr5:126593308-126593344",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SOWAHA",
+    "LocusStructure": "(GCC)*",
+    "ReferenceRegion": "chr5:132813630-132813645",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SPOCK1",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr5:137498266-137498300",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "DIAPH1",
+    "LocusStructure": "(GGA)*",
+    "ReferenceRegion": "chr5:141573996-141574029",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PCDH12",
+    "LocusStructure": "(CTG)*",
+    "ReferenceRegion": "chr5:141945390-141945408",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ARHGAP26",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr5:143222246-143222284",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PPP2R2B",
+    "LocusStructure": "(CTG)*",
+    "ReferenceRegion": "chr5:146878728-146878758",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SLC6A7",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr5:150203820-150203864",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "WWC1",
+    "LocusStructure": "(CTGG)*",
+    "ReferenceRegion": "chr5:168431457-168431501",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "STC2",
+    "LocusStructure": "(AG)*",
+    "ReferenceRegion": "chr5:173318266-173318300",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SNCB",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr5:176626335-176626363",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "FLT4",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr5:180620739-180620757",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "RREB1",
+    "LocusStructure": "(TTTTA)*",
+    "ReferenceRegion": "chr6:7187540-7187590",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "GCM2",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr6:10881554-10881606",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ATXN1",
+    "LocusStructure": "(CTG)*",
+    "ReferenceRegion": "chr6:16327635-16327722",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "KIF13A",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr6:17805370-17805408",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "BTN2A3P",
+    "LocusStructure": "(CCT)*",
+    "ReferenceRegion": "chr6:26422159-26422174",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "LST1",
+    "LocusStructure": "(GA)*",
+    "ReferenceRegion": "chr6:31588375-31588421",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "LY6G6F-LY6G6D",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr6:31711840-31711878",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PPT2",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr6:32155584-32155618",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "NOTCH4",
+    "LocusStructure": "(AGC)*",
+    "ReferenceRegion": "chr6:32223881-32223911",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "HLA-DPB1",
+    "LocusStructure": "(AAGG)*",
+    "ReferenceRegion": "chr6:33084849-33084897",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "HSD17B8",
+    "LocusStructure": "(AG)*",
+    "ReferenceRegion": "chr6:33205971-33205997",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SYNGAP1",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr6:33441113-33441139",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "BLTP3A",
+    "LocusStructure": "(GGC)*",
+    "ReferenceRegion": "chr6:34792126-34792141",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ANKS1A",
+    "LocusStructure": "(GGC)*",
+    "ReferenceRegion": "chr6:34889525-34889561",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "STK38",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr6:36515518-36515556",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "GLP1R",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr6:39086166-39086204",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "KCNK17",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr6:39311072-39311120",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "FRS3",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr6:41772745-41772779",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "C6orf132",
+    "LocusStructure": "(CTC)*",
+    "ReferenceRegion": "chr6:42104971-42104989",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SCIRT",
+    "LocusStructure": "(GCG)*",
+    "ReferenceRegion": "chr6:44002766-44002793",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "RUNX2",
+    "LocusStructure": "(GGC)*",
+    "ReferenceRegion": "chr6:45422749-45422794",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "GCLC",
+    "LocusStructure": "(CCT)*",
+    "ReferenceRegion": "chr6:53544653-53544674",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "GFRAL",
+    "LocusStructure": "(TCTA)*",
+    "ReferenceRegion": "chr6:55359164-55359184",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "COL12A1",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr6:75085406-75085424",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MYO6",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr6:75907794-75907816",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "DOP1A",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr6:83152211-83152231",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ZNF292",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr6:87216108-87216156",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MANEA",
+    "LocusStructure": "(TA)*",
+    "ReferenceRegion": "chr6:95586993-95587005",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "HACE1",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr6:104852195-104852229",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "AK9",
+    "LocusStructure": "(ATAG)*",
+    "ReferenceRegion": "chr6:109632862-109632902",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "LAMA4",
+    "LocusStructure": "(AAACA)*",
+    "ReferenceRegion": "chr6:112206948-112206973",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "RSPH4A",
+    "LocusStructure": "(TTGTT)*",
+    "ReferenceRegion": "chr6:116623097-116623127",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ROS1",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr6:117360273-117360299",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TRDN",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr6:123271039-123271063",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ENPP1",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr6:131847856-131847894",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TCF21",
+    "LocusStructure": "(TC)*",
+    "ReferenceRegion": "chr6:133889359-133889377",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "NHSL1",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr6:138499134-138499158",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "AIG1",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr6:143061117-143061147",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "UTRN",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr6:144551136-144551168",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "STXBP5",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr6:147314182-147314210",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MTHFD1L_1",
+    "LocusStructure": "(CCG)*",
+    "ReferenceRegion": "chr6:150865721-150865745",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MTHFD1L_2",
+    "LocusStructure": "(ATT)*",
+    "ReferenceRegion": "chr6:150898827-150898848",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TBP",
+    "LocusStructure": "(CAG)*",
+    "ReferenceRegion": "chr6:170561907-170562015",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "UMAD1",
+    "LocusStructure": "(AGC)*",
+    "ReferenceRegion": "chr7:7673310-7673370",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "HDAC9_1",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr7:18591475-18591507",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "HDAC9_2",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr7:18648410-18648432",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "DNAH11",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr7:21765610-21765658",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "HYCC1",
+    "LocusStructure": "(CT)*",
+    "ReferenceRegion": "chr7:22961164-22961168",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "AOAH",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr7:36686871-36686897",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "AMPH",
+    "LocusStructure": "(TATC)*",
+    "ReferenceRegion": "chr7:38422554-38422614",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "GLI3",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr7:42148135-42148177",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "GRB10",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr7:50595602-50595636",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ZNF680",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr7:64544439-64544471",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ZNF92",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr7:65387877-65387893",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ASL",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr7:66087243-66087283",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "AUTS2",
+    "LocusStructure": "(CCA)*",
+    "ReferenceRegion": "chr7:70790590-70790614",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ELN",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr7:74053320-74053358",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CCDC146",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr7:77259939-77259997",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ABCB4",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr7:87426944-87426980",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "RUNDC3B",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr7:87628584-87628624",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CFAP69",
+    "LocusStructure": "(TAGA)*",
+    "ReferenceRegion": "chr7:90304643-90304687",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CALCR",
+    "LocusStructure": "(AAAC)*",
+    "ReferenceRegion": "chr7:93468823-93468835",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SGCE",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr7:94628137-94628163",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "DLX6",
+    "LocusStructure": "(CT)*",
+    "ReferenceRegion": "chr7:97010193-97010207",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TRRAP",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr7:98953031-98953079",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SERPINE1",
+    "LocusStructure": "(AAC)*",
+    "ReferenceRegion": "chr7:101131806-101131827",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PRKRIP1",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr7:102397706-102397736",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "RELN",
+    "LocusStructure": "(GCC)*",
+    "ReferenceRegion": "chr7:103989356-103989380",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "LHFPL3",
+    "LocusStructure": "(AGG)*",
+    "ReferenceRegion": "chr7:104328746-104328773",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "KMT2E",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr7:105076872-105076918",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TSPAN12",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr7:120810624-120810654",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "WNT16",
+    "LocusStructure": "(CT)*",
+    "ReferenceRegion": "chr7:121339471-121339473",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SLC13A1",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr7:123129324-123129372",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "WASL",
+    "LocusStructure": "(TC)*",
+    "ReferenceRegion": "chr7:123689006-123689038",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "FLNC",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr7:128858576-128858598",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "DGKI",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr7:137620019-137620053",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "UBN2",
+    "LocusStructure": "(TATG)*",
+    "ReferenceRegion": "chr7:139272494-139272538",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MGAM",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr7:142030818-142030840",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TRPV5",
+    "LocusStructure": "(ATCT)*",
+    "ReferenceRegion": "chr7:142912837-142912881",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CLCN1",
+    "LocusStructure": "(TC)*",
+    "ReferenceRegion": "chr7:143320553-143320585",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ZNF212",
+    "LocusStructure": "(CGG)*",
+    "ReferenceRegion": "chr7:149239671-149239689",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "GIMAP2",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr7:150687105-150687155",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "NOS3",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr7:151002383-151002453",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "GALNTL5",
+    "LocusStructure": "(TAGA)*",
+    "ReferenceRegion": "chr7:151971095-151971139",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PTPRN2",
+    "LocusStructure": "(GA)*",
+    "ReferenceRegion": "chr7:157574513-157574535",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TDRP",
+    "LocusStructure": "(GGC)*",
+    "ReferenceRegion": "chr8:544658-544676",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ARHGEF10_1",
+    "LocusStructure": "(ATCT)*",
+    "ReferenceRegion": "chr8:1857879-1857927",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ARHGEF10_2",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr8:1866422-1866450",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CSMD1",
+    "LocusStructure": "(AAAGA)*",
+    "ReferenceRegion": "chr8:2949398-2949413",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SLC18A1",
+    "LocusStructure": "(TC)*",
+    "ReferenceRegion": "chr8:20149572-20149616",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "XPO7",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr8:21970369-21970391",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SLC39A14",
+    "LocusStructure": "(GCT)*",
+    "ReferenceRegion": "chr8:22404715-22404727",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "LOXL2",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr8:23328709-23328745",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ADAMDEC1",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr8:24395669-24395685",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "DPYSL2",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr8:26626482-26626522",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "DUSP26",
+    "LocusStructure": "(AG)*",
+    "ReferenceRegion": "chr8:33592228-33592236",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PLEKHA2",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr8:38969941-38969977",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "STAU2",
+    "LocusStructure": "(AGAA)*",
+    "ReferenceRegion": "chr8:73422779-73422783",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "VIRMA",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr8:94509625-94509645",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "POP1",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr8:98155909-98155955",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "LRP12",
+    "LocusStructure": "(GCC)*",
+    "ReferenceRegion": "chr8:104588971-104588998",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SYBU",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr8:109607808-109607854",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ATAD2",
+    "LocusStructure": "(TCA)*",
+    "ReferenceRegion": "chr8:123369909-123369969",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TMEM71",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr8:132728013-132728049",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TG_1",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr8:132888595-132888621",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TG_2",
+    "LocusStructure": "(TC)*",
+    "ReferenceRegion": "chr8:132966456-132966466",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SLA",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr8:133039953-133039979",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "FAM135B",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr8:138367860-138367886",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MAFA",
+    "LocusStructure": "(TGG)*",
+    "ReferenceRegion": "chr8:143429783-143429813",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "GSDMD",
+    "LocusStructure": "(AGGGC)*",
+    "ReferenceRegion": "chr8:143559981-143560001",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TMEM276-ZFTRAF1",
+    "LocusStructure": "(CT)*",
+    "ReferenceRegion": "chr8:144464728-144464736",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SMARCA2",
+    "LocusStructure": "(CAG)*",
+    "ReferenceRegion": "chr9:2039764-2039836",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "VLDLR",
+    "LocusStructure": "(CGG)*",
+    "ReferenceRegion": "chr9:2622146-2622170",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "GLIS3",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr9:4125633-4125655",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "BRD10",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr9:5919543-5919583",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PTPRD",
+    "LocusStructure": "(AG)*",
+    "ReferenceRegion": "chr9:8338847-8338865",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "LURAP1L",
+    "LocusStructure": "(GGC)*",
+    "ReferenceRegion": "chr9:12775862-12775880",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "BNC2_1",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr9:16418873-16418899",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "BNC2_2",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr9:16582892-16582934",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "DENND4C",
+    "LocusStructure": "(TA)*",
+    "ReferenceRegion": "chr9:19336171-19336185",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MLLT3",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr9:20621902-20621920",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MTAP",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr9:21802985-21803037",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "IGFBPL1",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr9:38414033-38414063",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TJP2",
+    "LocusStructure": "(TTTC)*",
+    "ReferenceRegion": "chr9:69234370-69234398",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TLE4",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr9:79720377-79720425",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TLE1_1",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr9:81633288-81633324",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TLE1_2",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr9:81652106-81652138",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "RASEF",
+    "LocusStructure": "(AG)*",
+    "ReferenceRegion": "chr9:82982805-82982833",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "FGD3",
+    "LocusStructure": "(GA)*",
+    "ReferenceRegion": "chr9:93010456-93010466",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PTCH1",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr9:95508038-95508040",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CCDC180",
+    "LocusStructure": "(GAG)*",
+    "ReferenceRegion": "chr9:97330686-97330701",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "FOXE1",
+    "LocusStructure": "(GCC)*",
+    "ReferenceRegion": "chr9:97854412-97854451",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PGAP4",
+    "LocusStructure": "(AAAC)*",
+    "ReferenceRegion": "chr9:101477211-101477231",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "EPB41L4B",
+    "LocusStructure": "(CGCTGC)*",
+    "ReferenceRegion": "chr9:109320480-109320510",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TXN",
+    "LocusStructure": "(TA)*",
+    "ReferenceRegion": "chr9:110244299-110244309",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SLC31A1",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr9:113260580-113260612",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TNC",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr9:115040906-115040924",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MEGF9",
+    "LocusStructure": "(CGG)*",
+    "ReferenceRegion": "chr9:120714264-120714288",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "C5",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr9:121025419-121025449",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "GSN",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr9:121332699-121332719",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "RABGAP1",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr9:123035639-123035683",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "STRBP",
+    "LocusStructure": "(AT)*",
+    "ReferenceRegion": "chr9:123169873-123169891",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PTGDS",
+    "LocusStructure": "(CATT)*",
+    "ReferenceRegion": "chr9:136980866-136980902",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CACNA1B",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr9:138052249-138052263",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CELF2",
+    "LocusStructure": "(GA)*",
+    "ReferenceRegion": "chr10:11005255-11005293",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "FRMD4A",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr10:14008162-14008210",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "FAM171A1",
+    "LocusStructure": "(CCG)*",
+    "ReferenceRegion": "chr10:15370874-15370898",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SKIDA1",
+    "LocusStructure": "(CCT)*",
+    "ReferenceRegion": "chr10:21516537-21516567",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "NRP1",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr10:33182833-33182861",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ZNF25",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr10:37971630-37971672",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ZNF37A",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr10:38115066-38115116",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "WDFY4",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr10:48946991-48947019",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "C10orf71",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr10:49326924-49326962",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ASAH2",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr10:50198991-50199013",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PRKG1",
+    "LocusStructure": "(GCC)*",
+    "ReferenceRegion": "chr10:50991310-50991343",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PCDH15",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr10:54132840-54132862",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "REEP3",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr10:63623755-63623797",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "VCL",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr10:74114408-74114436",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "KCNMA1",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr10:77079369-77079403",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ANXA11",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr10:80166042-80166074",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MAT1A",
+    "LocusStructure": "(TTC)*",
+    "ReferenceRegion": "chr10:80289495-80289513",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "WAPL",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr10:86460340-86460348",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "LDB3",
+    "LocusStructure": "(TC)*",
+    "ReferenceRegion": "chr10:86699239-86699267",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PAPSS2_1",
+    "LocusStructure": "(GCT)*",
+    "ReferenceRegion": "chr10:87659881-87659905",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PAPSS2_2",
+    "LocusStructure": "(AT)*",
+    "ReferenceRegion": "chr10:87709326-87709344",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "STAMBPL1",
+    "LocusStructure": "(AT)*",
+    "ReferenceRegion": "chr10:88914677-88914695",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CC2D2B",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr10:95965785-95965821",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SFRP5",
+    "LocusStructure": "(GCC)*",
+    "ReferenceRegion": "chr10:97771932-97771950",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "HPSE2",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr10:99232214-99232256",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ENTPD7",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr10:99660526-99660562",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SUFU",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr10:102618931-102618979",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "COL17A1",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr10:104055444-104055482",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CFAP43",
+    "LocusStructure": "(AG)*",
+    "ReferenceRegion": "chr10:104179155-104179181",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SORCS3",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr10:105214365-105214381",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TCF7L2",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr10:113144088-113144136",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SFXN4",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr10:119146428-119146460",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MCMBP",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr10:119859275-119859305",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SEC23IP",
+    "LocusStructure": "(TTTG)*",
+    "ReferenceRegion": "chr10:119918598-119918626",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PLEKHA1",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr10:122429494-122429530",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TRIM34",
+    "LocusStructure": "(AT)*",
+    "ReferenceRegion": "chr11:5643114-5643126",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SMPD1",
+    "LocusStructure": "(CTGGCG)*",
+    "ReferenceRegion": "chr11:6390700-6390736",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "DNHD1",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr11:6528404-6528436",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CYB5R2",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr11:7672622-7672642",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "DENND2B",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr11:8710753-8710793",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TMEM9B",
+    "LocusStructure": "(GGCTCA)*",
+    "ReferenceRegion": "chr11:8964369-8964393",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "COPB1",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr11:14465062-14465110",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SAAL1",
+    "LocusStructure": "(CCT)*",
+    "ReferenceRegion": "chr11:18105983-18106001",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ANO5",
+    "LocusStructure": "(AGG)*",
+    "ReferenceRegion": "chr11:22193319-22193337",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MUC15",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr11:26559835-26559875",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SLC5A12",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr11:26671047-26671063",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "WT1",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr11:32388003-32388037",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ACP2",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr11:47245857-47245885",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "FNBP4_1",
+    "LocusStructure": "(AAAAG)*",
+    "ReferenceRegion": "chr11:47765374-47765414",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "FNBP4_2",
+    "LocusStructure": "(GGT)*",
+    "ReferenceRegion": "chr11:47767111-47767123",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "FOLH1",
+    "LocusStructure": "(AAACA)*",
+    "ReferenceRegion": "chr11:49207948-49207973",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CD6",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr11:61011178-61011204",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "BEST1",
+    "LocusStructure": "(TCC)*",
+    "ReferenceRegion": "chr11:61958127-61958142",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SLC22A10",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr11:63299709-63299739",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "NEAT1",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr11:65444263-65444321",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "LTBP3",
+    "LocusStructure": "(CAG)*",
+    "ReferenceRegion": "chr11:65557854-65557884",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TOP6BL",
+    "LocusStructure": "(GGC)*",
+    "ReferenceRegion": "chr11:66744819-66744843",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ACY3",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr11:67644732-67644758",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SHANK2",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr11:70661500-70661554",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "GDPD5",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr11:75441543-75441569",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TENM4",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr11:79422248-79422282",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ANKRD42",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr11:83248296-83248336",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "EED",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr11:86268594-86268626",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PRSS23",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr11:86808883-86808909",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "NAALAD2",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr11:90175928-90175952",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CEP295",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr11:93721665-93721701",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CWC15",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr11:94966226-94966268",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MMP8",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr11:102721318-102721338",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "DYNC2H1",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr11:103191642-103191662",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SLC35F2",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr11:107816015-107816053",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "DDX10",
+    "LocusStructure": "(TGA)*",
+    "ReferenceRegion": "chr11:108917907-108917931",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "NCAM1",
+    "LocusStructure": "(TTTTG)*",
+    "ReferenceRegion": "chr11:113202344-113202369",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TTC12",
+    "LocusStructure": "(TTGTT)*",
+    "ReferenceRegion": "chr11:113360051-113360076",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TMPRSS13",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr11:117902072-117902104",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CD3D",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr11:118339709-118339741",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "UBE4A",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr11:118375256-118375274",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "BCL9L",
+    "LocusStructure": "(AG)*",
+    "ReferenceRegion": "chr11:118903195-118903209",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "NCAPD3",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr11:134184810-134184850",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ATN1",
+    "LocusStructure": "(CAG)*",
+    "ReferenceRegion": "chr12:6936716-6936773",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CD163L1",
+    "LocusStructure": "(GA)*",
+    "ReferenceRegion": "chr12:7368967-7368991",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "APOBEC1",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr12:7665752-7665806",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CLEC4E",
+    "LocusStructure": "(TC)*",
+    "ReferenceRegion": "chr12:8540823-8540835",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "A2ML1",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr12:8868457-8868475",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "EPS8",
+    "LocusStructure": "(TAA)*",
+    "ReferenceRegion": "chr12:15681305-15681335",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PLCZ1",
+    "LocusStructure": "(TCC)*",
+    "ReferenceRegion": "chr12:18701606-18701651",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PDE3A",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr12:20369190-20369210",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SOX5",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr12:23950977-23951003",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SYT10",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr12:33426062-33426098",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MUC19",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr12:40436797-40436821",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "DIP2B",
+    "LocusStructure": "(CGG)*",
+    "ReferenceRegion": "chr12:50505003-50505024",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SMAGP",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr12:51246604-51246638",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "KRT72",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr12:52591359-52591373",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "WIF1",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr12:65068649-65068685",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ZFC3H1_1",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr12:71626209-71626237",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ZFC3H1_2",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr12:71629556-71629592",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "E2F7",
+    "LocusStructure": "(TC)*",
+    "ReferenceRegion": "chr12:77028192-77028198",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "OTOGL",
+    "LocusStructure": "(CAAA)*",
+    "ReferenceRegion": "chr12:80256496-80256520",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PLEKHG7",
+    "LocusStructure": "(AAGA)*",
+    "ReferenceRegion": "chr12:92761623-92761683",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "HAL",
+    "LocusStructure": "(CCCT)*",
+    "ReferenceRegion": "chr12:95992868-95992880",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "BLTP3B",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr12:100084378-100084426",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ASCL1",
+    "LocusStructure": "(GCA)*",
+    "ReferenceRegion": "chr12:102958393-102958429",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "STAB2",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr12:103620624-103620654",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SLC41A2",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr12:104866381-104866415",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "USP30",
+    "LocusStructure": "(CGG)*",
+    "ReferenceRegion": "chr12:109052621-109052639",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ALKBH2",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr12:109092473-109092493",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ATXN2",
+    "LocusStructure": "(CTG)*",
+    "ReferenceRegion": "chr12:111598950-111599019",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "HECTD4_1",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr12:112200884-112200912",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "HECTD4_2",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr12:112247977-112248005",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "NOS1",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr12:117330300-117330328",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "VSIG10_1",
+    "LocusStructure": "(TCC)*",
+    "ReferenceRegion": "chr12:118068522-118068546",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "VSIG10_2",
+    "LocusStructure": "(TTTTG)*",
+    "ReferenceRegion": "chr12:118074075-118074100",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MORN3",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr12:121659137-121659167",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CFAP251",
+    "LocusStructure": "(GAG)*",
+    "ReferenceRegion": "chr12:121921491-121921500",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "VPS33A",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr12:122238770-122238806",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "NCOR2",
+    "LocusStructure": "(GCT)*",
+    "ReferenceRegion": "chr12:124402512-124402548",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "BRI3BP",
+    "LocusStructure": "(CTG)*",
+    "ReferenceRegion": "chr12:124993835-124993862",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "EP400",
+    "LocusStructure": "(CAG)*",
+    "ReferenceRegion": "chr12:132062548-132062605",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "FLT3",
+    "LocusStructure": "(AG)*",
+    "ReferenceRegion": "chr13:28028089-28028111",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ALOX5AP",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr13:30713841-30713855",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "VWA8",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr13:41787607-41787637",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CAB39L",
+    "LocusStructure": "(TAGA)*",
+    "ReferenceRegion": "chr13:49376891-49376919",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "NEK3",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr13:52133615-52133645",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "VPS36",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr13:52436218-52436254",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CKAP2",
+    "LocusStructure": "(GCGGTG)*",
+    "ReferenceRegion": "chr13:52455635-52455671",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "DACH1",
+    "LocusStructure": "(GCC)*",
+    "ReferenceRegion": "chr13:71866526-71866550",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "KLF5",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr13:73062772-73062790",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "LMO7DN",
+    "LocusStructure": "(TC)*",
+    "ReferenceRegion": "chr13:75871264-75871282",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "DOCK9",
+    "LocusStructure": "(TGT)*",
+    "ReferenceRegion": "chr13:98883228-98883252",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ZIC5",
+    "LocusStructure": "(GGC)*",
+    "ReferenceRegion": "chr13:99970413-99970449",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PCCA",
+    "LocusStructure": "(TTCA)*",
+    "ReferenceRegion": "chr13:100268828-100268852",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "NALF1",
+    "LocusStructure": "(GCT)*",
+    "ReferenceRegion": "chr13:107866340-107866379",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TUBGCP3",
+    "LocusStructure": "(AT)*",
+    "ReferenceRegion": "chr13:112504547-112504563",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CDC16",
+    "LocusStructure": "(GGC)*",
+    "ReferenceRegion": "chr13:114234974-114234989",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TEP1",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr14:20368764-20368792",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "REM2",
+    "LocusStructure": "(GCACAC)*",
+    "ReferenceRegion": "chr14:22883255-22883285",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CIROP_1",
+    "LocusStructure": "(AAAAC)*",
+    "ReferenceRegion": "chr14:23103567-23103592",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CIROP_2",
+    "LocusStructure": "(GCA)*",
+    "ReferenceRegion": "chr14:23104886-23104919",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CEBPE",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr14:23117248-23117288",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "HOMEZ",
+    "LocusStructure": "(CAT)*",
+    "ReferenceRegion": "chr14:23275591-23275615",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "NOP9",
+    "LocusStructure": "(GAG)*",
+    "ReferenceRegion": "chr14:24300643-24300667",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "EAPP",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr14:34524653-34524681",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MDGA2",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr14:47301291-47301321",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "DDHD1",
+    "LocusStructure": "(GCC)*",
+    "ReferenceRegion": "chr14:53152762-53152774",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "C14orf39",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr14:60465851-60465893",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SLC38A6",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr14:61036960-61037006",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PRKCH",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr14:61528973-61529005",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "HIF1A",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr14:61744860-61744894",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CCDC177",
+    "LocusStructure": "(GCG)*",
+    "ReferenceRegion": "chr14:69573086-69573110",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "NOXRED1",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr14:77406590-77406634",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TSHR",
+    "LocusStructure": "(TC)*",
+    "ReferenceRegion": "chr14:81108343-81108355",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ATXN3",
+    "LocusStructure": "(CTG)*",
+    "ReferenceRegion": "chr14:92071010-92071040",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SLC24A4",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr14:92449281-92449323",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "DICER1",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr14:95099731-95099771",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CLMN",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr14:95215815-95215859",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "BCL11B",
+    "LocusStructure": "(CGC)*",
+    "ReferenceRegion": "chr14:99271298-99271337",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "DYNC1H1",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr14:102030057-102030077",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "NIPA1",
+    "LocusStructure": "(GCG)*",
+    "ReferenceRegion": "chr15:22786677-22786701",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "FAN1",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr15:30928506-30928540",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "FMN1",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr15:32964016-32964048",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "LPCAT4",
+    "LocusStructure": "(TC)*",
+    "ReferenceRegion": "chr15:34362138-34362156",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ACTC1",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr15:34791307-34791353",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "FAM98B",
+    "LocusStructure": "(GGT)*",
+    "ReferenceRegion": "chr15:38484605-38484632",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "EIF2AK4",
+    "LocusStructure": "(GAC)*",
+    "ReferenceRegion": "chr15:39976797-39976806",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CCDC32",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr15:40553905-40553967",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "RPUSD2",
+    "LocusStructure": "(GTTTT)*",
+    "ReferenceRegion": "chr15:40569992-40570017",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "INO80",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr15:41058570-41058594",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "DUOX1_1",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr15:45138078-45138106",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "DUOX1_2",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr15:45153494-45153546",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SQOR",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr15:45659211-45659229",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "GALK2",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr15:49201053-49201087",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "WDR72",
+    "LocusStructure": "(AG)*",
+    "ReferenceRegion": "chr15:53523330-53523352",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "VPS13C",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr15:62012221-62012257",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TLN2",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr15:62783721-62783747",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CLN6",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr15:68207979-68207999",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ACSBG1",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr15:78179815-78179843",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "FAH",
+    "LocusStructure": "(GGAGT)*",
+    "ReferenceRegion": "chr15:80153171-80153211",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "AP3B2",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr15:82665376-82665434",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "POLG",
+    "LocusStructure": "(TGC)*",
+    "ReferenceRegion": "chr15:89333596-89333629",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "KIF7",
+    "LocusStructure": "(AGGG)*",
+    "ReferenceRegion": "chr15:89633008-89633024",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MESP2",
+    "LocusStructure": "(AGGGGC)*",
+    "ReferenceRegion": "chr15:89776889-89776925",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "IQGAP1",
+    "LocusStructure": "(TGTTT)*",
+    "ReferenceRegion": "chr15:90499960-90499985",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SLCO3A1",
+    "LocusStructure": "(GCG)*",
+    "ReferenceRegion": "chr15:91853876-91853900",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MEF2A",
+    "LocusStructure": "(CAG)*",
+    "ReferenceRegion": "chr15:99712504-99712537",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "LRRK1",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr15:101021775-101021813",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CLCN7",
+    "LocusStructure": "(GC)*",
+    "ReferenceRegion": "chr16:1474773-1474777",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "IL32",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr16:3067271-3067309",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "C16orf89",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr16:5055938-5056000",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "RBFOX1",
+    "LocusStructure": "(CT)*",
+    "ReferenceRegion": "chr16:7653783-7653799",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ABAT",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr16:8764843-8764865",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "EMP2",
+    "LocusStructure": "(ATGA)*",
+    "ReferenceRegion": "chr16:10531748-10531788",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "GSPT1",
+    "LocusStructure": "(CCG)*",
+    "ReferenceRegion": "chr16:11915673-11915703",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SHISA9",
+    "LocusStructure": "(CT)*",
+    "ReferenceRegion": "chr16:13234957-13234987",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ACSM1",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr16:20671440-20671478",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "VWA3A",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr16:22138291-22138313",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TNRC6A",
+    "LocusStructure": "(CGG)*",
+    "ReferenceRegion": "chr16:24729684-24729717",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "LCMT1",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr16:25151696-25151722",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "KIF22",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr16:29798313-29798347",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PRSS36",
+    "LocusStructure": "(AAAC)*",
+    "ReferenceRegion": "chr16:31141376-31141392",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TENT4B",
+    "LocusStructure": "(TC)*",
+    "ReferenceRegion": "chr16:50217760-50217774",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "GNAO1",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr16:56192726-56192750",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "GOT2",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr16:58716559-58716589",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "E2F4",
+    "LocusStructure": "(CAG)*",
+    "ReferenceRegion": "chr16:67195890-67195929",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ATP6V0D1",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr16:67438473-67438495",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "THAP11",
+    "LocusStructure": "(CAG)*",
+    "ReferenceRegion": "chr16:67842863-67842950",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ZFHX3_1",
+    "LocusStructure": "(GCC)*",
+    "ReferenceRegion": "chr16:72787694-72787757",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ZFHX3_2",
+    "LocusStructure": "(TTG)*",
+    "ReferenceRegion": "chr16:72797458-72797488",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "JPH3",
+    "LocusStructure": "(CTG)*",
+    "ReferenceRegion": "chr16:87604287-87604329",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MINK1",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr17:4891200-4891224",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ALOX15P1",
+    "LocusStructure": "(TC)*",
+    "ReferenceRegion": "chr17:6659795-6659833",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SLC13A5",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr17:6693178-6693230",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "DNAH2",
+    "LocusStructure": "(AG)*",
+    "ReferenceRegion": "chr17:7823347-7823371",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TVP23C",
+    "LocusStructure": "(CT)*",
+    "ReferenceRegion": "chr17:15502809-15502831",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MPRIP",
+    "LocusStructure": "(CAG)*",
+    "ReferenceRegion": "chr17:17136247-17136280",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "RAI1",
+    "LocusStructure": "(CAG)*",
+    "ReferenceRegion": "chr17:17793779-17793818",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MYO15A",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr17:18130817-18130871",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "NF1",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr17:31226318-31226358",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "GSDMA",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr17:39970658-39970684",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MED24",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr17:40019175-40019203",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "KRT12",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr17:40863953-40863991",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "KRT20",
+    "LocusStructure": "(TTTA)*",
+    "ReferenceRegion": "chr17:40882689-40882725",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "STAT5B",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr17:42207487-42207525",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "STAT5A",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr17:42310778-42310800",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CNTNAP1",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr17:42698534-42698568",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PSME3",
+    "LocusStructure": "(GA)*",
+    "ReferenceRegion": "chr17:42834437-42834469",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ETV4",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr17:43545194-43545234",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "DCAKD",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr17:45024286-45024338",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SLC35B1",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr17:49703348-49703376",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ITGA3",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr17:50080463-50080505",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CACNA1G",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr17:50568985-50569015",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CA10",
+    "LocusStructure": "(AGC)*",
+    "ReferenceRegion": "chr17:51831667-51831730",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "STXBP4",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr17:55047185-55047217",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "LPO",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr17:58244090-58244132",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SEPTIN4",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr17:58526559-58526613",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "EFCAB3",
+    "LocusStructure": "(TC)*",
+    "ReferenceRegion": "chr17:62387477-62387481",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TEX2",
+    "LocusStructure": "(CTTC)*",
+    "ReferenceRegion": "chr17:64193463-64193483",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CEP95",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr17:64522979-64522989",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "OTOP3",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr17:74943759-74943793",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "RHBDF2",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr17:76480007-76480041",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CBX4",
+    "LocusStructure": "(GCC)*",
+    "ReferenceRegion": "chr17:79834118-79834142",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "WDR45B",
+    "LocusStructure": "(CGTG)*",
+    "ReferenceRegion": "chr17:82648488-82648504",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MYOM1",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr18:3188666-3188692",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "LAMA1",
+    "LocusStructure": "(CAGCTC)*",
+    "ReferenceRegion": "chr18:6956505-6956529",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CDH2",
+    "LocusStructure": "(GGC)*",
+    "ReferenceRegion": "chr18:28177057-28177081",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CCDC68",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr18:54917840-54917870",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TCF4",
+    "LocusStructure": "(CAG)*",
+    "ReferenceRegion": "chr18:55586155-55586227",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ALPK2",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr18:58578733-58578771",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CDH20",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr18:61499529-61499543",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "GALR1",
+    "LocusStructure": "(CCT)*",
+    "ReferenceRegion": "chr18:77268542-77268569",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PARD6G",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr18:80177972-80178002",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "LSM7",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr19:2363780-2363788",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "VAV1",
+    "LocusStructure": "(GGGT)*",
+    "ReferenceRegion": "chr19:6832020-6832032",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ARHGEF18",
+    "LocusStructure": "(CCTT)*",
+    "ReferenceRegion": "chr19:7442124-7442172",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SAXO5",
+    "LocusStructure": "(TC)*",
+    "ReferenceRegion": "chr19:7504080-7504094",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CAMSAP3",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr19:7605147-7605177",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "FBN3",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr19:8072966-8073002",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "COL5A3_1",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr19:9967495-9967507",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "COL5A3_2",
+    "LocusStructure": "(TC)*",
+    "ReferenceRegion": "chr19:9980591-9980603",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "COL5A3_3",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr19:9998232-9998256",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "DNMT1",
+    "LocusStructure": "(TCA)*",
+    "ReferenceRegion": "chr19:10180646-10180676",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PRKCSH",
+    "LocusStructure": "(GAG)*",
+    "ReferenceRegion": "chr19:11447525-11447555",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CACNA1A_1",
+    "LocusStructure": "(CTG)*",
+    "ReferenceRegion": "chr19:13207858-13207897",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CACNA1A_2",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr19:13212827-13212849",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "OR7A10",
+    "LocusStructure": "(AG)*",
+    "ReferenceRegion": "chr19:14841894-14841922",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "OR7A17",
+    "LocusStructure": "(TATT)*",
+    "ReferenceRegion": "chr19:14881366-14881406",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CYP4F12",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr19:15684756-15684798",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "COMP",
+    "LocusStructure": "(GTC)*",
+    "ReferenceRegion": "chr19:18786034-18786049",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ZNF85",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr19:20933957-20933997",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ZNF738_1",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr19:21375213-21375229",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ZNF738_2",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr19:21377512-21377534",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ZNF681",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr19:23755558-23755598",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "GARRE1",
+    "LocusStructure": "(GCCT)*",
+    "ReferenceRegion": "chr19:34352969-34352989",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "GRAMD1A",
+    "LocusStructure": "(GCCCT)*",
+    "ReferenceRegion": "chr19:35000422-35000447",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "UPK1A",
+    "LocusStructure": "(TTTC)*",
+    "ReferenceRegion": "chr19:35676171-35676195",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SUPT5H",
+    "LocusStructure": "(CCA)*",
+    "ReferenceRegion": "chr19:39458231-39458273",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ATP1A3",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr19:41993501-41993549",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ZNF428",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr19:43607372-43607394",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CEACAM20_1",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr19:44520845-44520869",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CEACAM20_2",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr19:44529354-44529394",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "IGSF23",
+    "LocusStructure": "(TC)*",
+    "ReferenceRegion": "chr19:44635348-44635374",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "DMPK",
+    "LocusStructure": "(CAG)*",
+    "ReferenceRegion": "chr19:45770204-45770264",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "RSPH6A",
+    "LocusStructure": "(CTC)*",
+    "ReferenceRegion": "chr19:45795880-45795886",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TMEM143",
+    "LocusStructure": "(ATTT)*",
+    "ReferenceRegion": "chr19:48345445-48345473",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "RPL18",
+    "LocusStructure": "(CAGCA)*",
+    "ReferenceRegion": "chr19:48616643-48616678",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TULP2",
+    "LocusStructure": "(TTAT)*",
+    "ReferenceRegion": "chr19:48897948-48897980",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PPFIA3",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr19:49141583-49141587",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "HRC",
+    "LocusStructure": "(CAT)*",
+    "ReferenceRegion": "chr19:49154453-49154495",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SCAF1",
+    "LocusStructure": "(CCGCTC)*",
+    "ReferenceRegion": "chr19:49652104-49652134",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SIGLEC5",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr19:51629271-51629305",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "HAS1",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr19:51723884-51723924",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PRPF31",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr19:54123660-54123674",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "HSPBP1",
+    "LocusStructure": "(GCC)*",
+    "ReferenceRegion": "chr19:55279518-55279533",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SSC5D",
+    "LocusStructure": "(CCAA)*",
+    "ReferenceRegion": "chr19:55490435-55490439",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "NOP56",
+    "LocusStructure": "(GGCCTG)*",
+    "ReferenceRegion": "chr20:2652733-2652757",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SIGLEC1",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr20:3694174-3694216",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SLC23A2",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr20:4857283-4857335",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MCM8",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr20:5994478-5994522",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "JAG1",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr20:10644276-10644314",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "NDUFAF5",
+    "LocusStructure": "(AGG)*",
+    "ReferenceRegion": "chr20:13785282-13785291",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SLC24A3",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr20:19665792-19665832",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "RALGAPA2",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr20:20629320-20629358",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CST3",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr20:23635182-23635206",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ABHD12",
+    "LocusStructure": "(GCC)*",
+    "ReferenceRegion": "chr20:25390742-25390745",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "DEFB124",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr20:31472917-31472937",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TPX2",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr20:31766454-31766496",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "PIGU",
+    "LocusStructure": "(AG)*",
+    "ReferenceRegion": "chr20:34581691-34581703",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ACSS2",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr20:34919576-34919620",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SGK2",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr20:43571064-43571102",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SPINT3",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr20:45512561-45512583",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ZSWIM1",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr20:45884105-45884143",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "NCOA3",
+    "LocusStructure": "(GCA)*",
+    "ReferenceRegion": "chr20:47651070-47651157",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "STAU1",
+    "LocusStructure": "(AAAT)*",
+    "ReferenceRegion": "chr20:49158904-49158928",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "BCAS1",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr20:53994888-53994916",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "KCNQ2",
+    "LocusStructure": "(GACA)*",
+    "ReferenceRegion": "chr20:63415143-63415155",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ABCC13",
+    "LocusStructure": "(GT)*",
+    "ReferenceRegion": "chr21:14291456-14291480",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "USP25",
+    "LocusStructure": "(AT)*",
+    "ReferenceRegion": "chr21:15866202-15866220",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "TMPRSS15",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr21:18372098-18372138",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "EVA1C",
+    "LocusStructure": "(AT)*",
+    "ReferenceRegion": "chr21:32467905-32467921",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CLIC6",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr21:34707437-34707469",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "BRWD1",
+    "LocusStructure": "(CGC)*",
+    "ReferenceRegion": "chr21:39313589-39313613",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "HMGN1",
+    "LocusStructure": "(CA)*",
+    "ReferenceRegion": "chr21:39345109-39345137",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ABCG1",
+    "LocusStructure": "(CCG)*",
+    "ReferenceRegion": "chr21:42219222-42219252",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "KRTAP10-2",
+    "LocusStructure": "(GTGA)*",
+    "ReferenceRegion": "chr21:44551493-44551505",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "COL6A2",
+    "LocusStructure": "(GGCCC)*",
+    "ReferenceRegion": "chr21:46126476-46126481",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "CABIN1",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr22:24042818-24042876",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "LHFPL7",
+    "LocusStructure": "(TCAT)*",
+    "ReferenceRegion": "chr22:24938070-24938098",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MYO18B",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr22:25950518-25950550",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ASCC2",
+    "LocusStructure": "(GCC)*",
+    "ReferenceRegion": "chr22:29838203-29838227",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "MICALL1",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr22:37912041-37912063",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "DMC1",
+    "LocusStructure": "(AC)*",
+    "ReferenceRegion": "chr22:38521538-38521588",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "ENTHD1",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr22:39765176-39765208",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "FAM83F",
+    "LocusStructure": "(GGGCCG)*",
+    "ReferenceRegion": "chr22:39995005-39995035",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SMIM45",
+    "LocusStructure": "(GA)*",
+    "ReferenceRegion": "chr22:41958483-41958507",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "SEPTIN3",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr22:41994883-41994923",
+    "VariantType": "Repeat"
+  },
+  {
+    "LocusId": "FAM118A",
+    "LocusStructure": "(TG)*",
+    "ReferenceRegion": "chr22:45323041-45323075",
+    "VariantType": "Repeat"
+  }
+]
