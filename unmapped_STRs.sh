@@ -94,9 +94,9 @@ cd $WrkDir/cohort/TRF
 # Run TRF on the cohort-level clustered contigs
 trf409.linux64 $WrkDir/cohort/CD-HIT/cohort_clustered-contigs.fa 2 7 7 80 10 50 500 -d
 # Screen TRF ouput for STRs with this criteria:
-    # $4 >= 5           # repeat length greater than 5
-    # $6 >= 80          # motifs match % (for repeat sequence perfection)
-    # ($2 - $1) >= 20   # minimum repeat length 20 bp
+    # $4 >= 5               # repeat length greater than 5
+    # $6 >= 80              # motifs match % (for repeat sequence perfection)
+    # $3 >= 2 && $3 <= 6    # motif length between 2 and 6 bp
     # Save the output in this format:
     # contig  start  end  motif_length  repeats  percent_match  motif
 awk '
