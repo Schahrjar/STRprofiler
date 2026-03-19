@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use STRprofiler, please cite it as below."
+authors:
+- family-names: Alavi
+  given-names: Shahryar
+  orcid: "https://orcid.org/0000-0002-3484-3423"
+  affiliation: "UCL Institute of Neurology, London, UK"
+title: "STRprofiler: A method for profiling genomic short tandem repeats from sequence data."
+version: 1.0.0
+date-released: 2026-03-19
+url: "https://github.com/Schahrjar/STRprofiler"
+license: MIT
